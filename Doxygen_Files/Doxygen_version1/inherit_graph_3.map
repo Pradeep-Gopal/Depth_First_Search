@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classfp_1_1landbasedrobot.html" title="Abstract class for the land based robot. " alt="" coords="5,31,135,57"/>
+<area shape="rect" id="node2" href="$classfp_1_1landbasedtracked.html" title="Concrete class implementing the land based robot with tracks that derived from the landbasedrobot..." alt="" coords="185,5,328,32"/>
+<area shape="rect" id="node3" href="$classfp_1_1landbasedwheeled.html" title="Concrete class implementing the land based robot with wheels that derived from the landbasedrobot..." alt="" coords="183,56,331,83"/>
+</map>

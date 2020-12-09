@@ -1,0 +1,5 @@
+<map id="fp::API::clearColor" name="fp::API::clearColor">
+<area shape="rect" id="node2" href="$classfp_1_1algorithm.html#a7392bdad89b689f27847d97b3a443b1a" title="Method to remove the highlights from the cells of path with obstacle. " alt="" coords="184,5,344,32"/>
+<area shape="rect" id="node3" href="$classfp_1_1algorithm.html#a290fcd71b7cc8af1e97e20a5ed23639a" title="Method to move the robot in the maze. " alt="" coords="392,5,561,32"/>
+<area shape="rect" id="node4" href="$classfp_1_1algorithm.html#a9ac2e92a9d217e16535db855816ac78b" title="Method to traverse the robot to solve the Maze. " alt="" coords="609,5,744,32"/>
+</map>

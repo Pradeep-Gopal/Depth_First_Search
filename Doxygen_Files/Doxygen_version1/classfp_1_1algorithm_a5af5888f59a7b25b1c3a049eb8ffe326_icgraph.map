@@ -1,0 +1,8 @@
+<map id="fp::algorithm::GetCoordinates" name="fp::algorithm::GetCoordinates">
+<area shape="rect" id="node2" href="$classfp_1_1algorithm.html#a9ac2e92a9d217e16535db855816ac78b" title="Method to traverse the robot to solve the Maze. " alt="" coords="269,5,404,32"/>
+<area shape="rect" id="node3" href="$classfp_1_1algorithm.html#a290fcd71b7cc8af1e97e20a5ed23639a" title="Method to move the robot in the maze. " alt="" coords="475,56,644,83"/>
+<area shape="rect" id="node4" href="$classfp_1_1algorithm.html#a872c95b0fe94247e9c7cd034edfa80d6" title="Method to print the stack which stores the computed path from the current node using dfs..." alt="" coords="255,107,418,133"/>
+<area shape="rect" id="node5" href="$classfp_1_1algorithm.html#a878c8172ec90e20f95f4baa09cf39574" title="Method to print the content of the stacks in the simulator log. " alt="" coords="255,158,418,199"/>
+<area shape="rect" id="node6" href="$classfp_1_1algorithm.html#afed4750d70c38b5c835245287955f34b" title="Method to highlight the color of the cells in the computed path. " alt="" coords="247,224,427,251"/>
+<area shape="rect" id="node7" href="$classfp_1_1algorithm.html#a7392bdad89b689f27847d97b3a443b1a" title="Method to remove the highlights from the cells of path with obstacle. " alt="" coords="257,275,417,301"/>
+</map>

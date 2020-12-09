@@ -1,0 +1,5 @@
+<map id="fp::API::setWall" name="fp::API::setWall">
+<area shape="rect" id="node2" href="$classfp_1_1algorithm.html#abc6aecfc457587cbdfce83f227a076c2" title="Method to setup the Maze. " alt="" coords="168,5,307,32"/>
+<area shape="rect" id="node3" href="$classfp_1_1algorithm.html#a290fcd71b7cc8af1e97e20a5ed23639a" title="Method to move the robot in the maze. " alt="" coords="355,31,524,57"/>
+<area shape="rect" id="node4" href="$classfp_1_1algorithm.html#a9ac2e92a9d217e16535db855816ac78b" title="Method to traverse the robot to solve the Maze. " alt="" coords="572,31,707,57"/>
+</map>
